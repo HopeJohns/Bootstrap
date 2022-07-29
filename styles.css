@@ -8,12 +8,25 @@
 .cards
 {
   display: flex;
+  padding: 10px;
 }
 
 .card
 {
   padding: 5px;
   display: inline-flex;
+  margin: auto;
+}
+
+.navbar
+{
+  margin: 0;
+  width: 100%;
+}
+
+.nav-item
+{
+  padding-right: 250px;
 }
 
 .footer
