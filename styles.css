@@ -1,0 +1,34 @@
+/* Hope Johns */
+
+.container
+{
+  text-align: center;
+}
+
+.cards
+{
+  display: flex;
+}
+
+.card
+{
+  padding: 5px;
+  display: inline-flex;
+}
+
+.footer
+{
+  background-image: url("images/background.png");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 0px;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.mb-3
+{
+  display: inline-flex;
+}
